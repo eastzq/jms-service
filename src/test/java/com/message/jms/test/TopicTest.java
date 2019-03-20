@@ -1,4 +1,4 @@
-package com.shine.tech.epmessagebus.test;
+package com.message.jms.test;
 
 import org.junit.Test;
 import org.slf4j.Logger;
